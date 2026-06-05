@@ -1,85 +1,33 @@
-# Hey there! 👋
+# Hey there 👋
 
-I'm Harshan, a Computer Science Engineering student from Chennai, India.
+I'm Harshan, a Computer Science Engineering student passionate about Backend and Full-Stack Development.
 
-I build full-stack web applications using Python, Flask, PostgreSQL, and JavaScript.
+I build web applications using Python, Flask, PostgreSQL, and JavaScript.
 
-I enjoy turning ideas into real products, deploying them, and continuously improving them through user feedback.
+## 🚀 Projects
 
-My primary interests are Backend Development, Full-Stack Engineering, Databases, and Software Architecture.
-
----
-
-## 🚀 Featured Projects
-
-### 💰 SpendWise – Expense Tracker
-Full-stack expense tracking application built with Flask and PostgreSQL featuring authentication, CRUD operations, search, analytics, and cloud deployment.
-
-### 🔖 Savora – Browser Link Manager
-Chrome Extension that allows users to save, organize, and quickly access bookmarks directly from the browser popup.
-
-### 🏀 Interactive Basketball Scoreboard
-Responsive real-time scoreboard built using vanilla JavaScript, HTML, and CSS.
-
----
+- 💰 **SpendWise** — Multi-user Expense Tracker
+- 🔖 **Savora** — Chrome Link Manager Extension
+- 💼 **Job Portal** — Currently Building
+- ⚡ **Online Coding Judge** — Coming Soon
 
 ## 🛠 Tech Stack
 
-### Languages
-Python • SQL • JavaScript • HTML5 • CSS3
+**Languages:** Python, SQL, JavaScript
 
-### Backend
-Flask • PostgreSQL • REST APIs • bcrypt • psycopg2 • Jinja2
+**Backend:** Flask, PostgreSQL, REST APIs
 
-### Tools
-Git • GitHub • VS Code • Figma • Chrome DevTools
+**Tools:** Git, GitHub, VS Code
 
-### Concepts
-Authentication • Session Management • CRUD Operations • Database Design • Full-Stack Development
+## 📚 Currently Learning
 
----
-
-## 🎯 Currently Working On
-
-### Job Portal
-Building a full-stack job portal with:
-- User Authentication
-- Job Posting & Applications
-- PostgreSQL Database
-- Search & Filtering
-- Role-Based Access
-
-### Online Coding Judge
-Building a coding platform featuring:
-- Problem Management
-- Code Submission System
-- Test Case Evaluation
-- Leaderboards
-- REST APIs
-
-### Learning
 - Data Structures & Algorithms
-- System Design Fundamentals
+- System Design
 - Backend Engineering
-- Software Architecture
 
----
+## 📫 Connect
 
-## 🏆 Certifications
+- Email: shriharshancse@gmail.com
+- LinkedIn: linkedin.com/in/shri-harshan
 
-- Google AI Essentials
-- Google UX Design Professional Certificate
-
----
-
-## 📫 Connect With Me
-
-📧 shriharshancse@gmail.com
-
-💼 LinkedIn: www.linkedin.com/in/shri-harshan
-
-🐙 GitHub: github.com/harshanrepo
-
----
-
-> Seeking Software Engineering opportunities where I can build scalable products and grow as a backend/full-stack developer.
+> Building software, learning every day, and preparing for SWE roles in 2026.
