@@ -27,7 +27,7 @@ I build web applications using Python, Flask, PostgreSQL, and JavaScript.
 
 ## 📫 Connect
 
-- Email: shriharshancse@gmail.com
-- LinkedIn: linkedin.com/in/shri-harshan
+- Email: [shriharshancse@gmail.com]
+- LinkedIn: [linkedin.com/in/shri-harshan]
 
 > Building software, learning every day, and preparing for SWE roles in 2026.
