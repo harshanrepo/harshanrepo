@@ -4,14 +4,14 @@ I'm Harshan, a Computer Science Engineering student passionate about Backend and
 
 I build web applications using Python, Flask, PostgreSQL, and JavaScript.
 
-## 🚀 Projects
+## Projects
 
 - 💰 **SpendWise** — Multi-user Expense Tracker
 - 🔖 **Savora** — Chrome Link Manager Extension
 - 💼 **Job Portal** — Currently Building
 - ⚡ **Online Coding Judge** — Coming Soon
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages:** Python, SQL, JavaScript
 
@@ -19,13 +19,13 @@ I build web applications using Python, Flask, PostgreSQL, and JavaScript.
 
 **Tools:** Git, GitHub, VS Code
 
-## 📚 Currently Learning
+## Currently Learning
 
 - Data Structures & Algorithms
 - System Design
 - Backend Engineering
 
-## 📫 Connect
+## Connect
 
 [Email](mailto:shriharshancse@gmail.com) • [LinkedIn](https://www.linkedin.com/in/shri-harshan) • [GitHub](https://github.com/harshanrepo)
 
