@@ -15,7 +15,7 @@ I build web applications using Python, Flask, PostgreSQL, and JavaScript.
 
 **Languages:** Python, SQL, JavaScript
 
-**Backend:** Flask, PostgreSQL, REST APIs
+**Backend:** Flask, PostgreSQL
 
 **Tools:** Git, GitHub, VS Code
 
