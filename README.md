@@ -8,8 +8,7 @@ I build web applications using Python, Flask, PostgreSQL, and JavaScript.
 
 - 💰 **SpendWise** — Multi-user Expense Tracker
 - 🔖 **Savora** — Chrome Link Manager Extension
-- 💼 **Job Portal** — Currently Building
-- ⚡ **Online Coding Judge** — Coming Soon
+- 💼 **API Monitoring & Uptime Dashboard** — Currently Building
 
 ## Tech Stack
 
