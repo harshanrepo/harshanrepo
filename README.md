@@ -1,31 +1,34 @@
-# Hey there 👋
+# Hey there! 👋 I'm Harshan
 
-I'm Harshan, a Computer Science Engineering student passionate about Backend and Full-Stack Development.
+I’m a **Software Engineer** specializing in **Backend & Full-Stack Development**. I focus on architecting clean APIs, optimizing databases, and building robust, scalable web applications.
 
-I build web applications using Python, Flask, PostgreSQL, and JavaScript.
+---
 
-## Projects
+### 🚀 Projects
 
-- 💰 **SpendWise** — Multi-user Expense Tracker
-- 🔖 **Savora** — Chrome Link Manager Extension
-- 💼 **API Monitoring & Uptime Dashboard** — Currently Building
+*   **💰 SpendWise** — A multi-user expense tracker designed for smart financial management.
+*   **🔖 Savora** — A sleek Chrome extension for seamless link and bookmark management.
+*   **💼 API Monitoring & Uptime Dashboard** — *Currently building a robust tool to track endpoint health in real-time.*
 
-## Tech Stack
+---
 
-**Languages:** Python, SQL, JavaScript
+### 🛠️ Tech Stack
 
-**Backend:** Flask, PostgreSQL
+*   **Languages:** Python, SQL, JavaScript, HTML/CSS
+*   **Backend & DB:** Flask, PostgreSQL
+*   **Tools & Ecosystem:** Git, GitHub, VS Code
 
-**Tools:** Git, GitHub, VS Code
+---
 
-## Currently Learning
+### 📚 Current Focus
+I'm constantly sharpening my skills to build production-ready software. Right now, I'm diving deep into:
+*   Data Structures & Algorithms (DSA)
+*   System Design & Architecture
+*   Advanced Backend Engineering
 
-- Data Structures & Algorithms
-- System Design
-- Backend Engineering
+---
 
-## Connect
+### 🤝 Let's Connect!
+📧 [Email](mailto:your-email@example.com) • 💼 [LinkedIn](https://linkedin.com/in/yourprofile) • 🐙 [GitHub](https://github.com/yourusername)
 
-[Email](mailto:shriharshancse@gmail.com) • [LinkedIn](https://www.linkedin.com/in/shri-harshan) • [GitHub](https://github.com/harshanrepo)
-
-> Building software, learning every day, and preparing for SWE roles in 2026.
+> 💻 *Building software, learning every day, and actively seeking Software Engineering roles.*
