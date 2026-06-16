@@ -28,7 +28,7 @@ Python • JavaScript • Flask • PostgreSQL • Git • GitHub
 
 **Connect**
 
-[Email](mailto:shriharshancse@gmail.com) • [LinkedIn](https://www.linkedin.com/in/shri-harshan) • [GitHub](https://github.com/harshanrepo)
+[Email](mailto:shriharshancse@gmail.com) • [LinkedIn](https://www.linkedin.com/in/mrshri-harshan/) • [GitHub](https://github.com/harshanrepo)
 
 ---
 
