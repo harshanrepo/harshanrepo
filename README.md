@@ -7,9 +7,9 @@ I build web applications using Python, Flask, PostgreSQL, and JavaScript.
 
 **Projects**
 
-- 💰 SpendWise — Multi-user Expense Tracker
-- 🔖 Savora — Chrome Link Manager Extension
-- 💼 API Monitoring & Uptime Dashboard — Currently Building
+- SpendWise — Multi-user Expense Tracker
+- Savora — Chrome Link Manager Extension
+- Argus — API Uptime Monitor — Currently Building
 
 ---
 
