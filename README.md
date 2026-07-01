@@ -8,13 +8,13 @@ A Computer Science Engineering graduate passionate about Software Engineering. I
 
 - **SpendWise** — Multi-user Expense Tracker
 - **Savora** — Chrome Link Manager Extension
-- **Argus** — API Uptime Monitor. Pings endpoints every 5 minutes, tracks response time, and shows live UP/DOWN status on a dashboard. Built with Flask, PostgreSQL, APScheduler, and Tailwind CSS — deployed on Render.
+- **Argus** — API Uptime Monitor
 
 ---
 
 ### Tech Stack
 
-Python • JavaScript • Flask • PostgreSQL • Git • GitHub
+Python • JavaScript • Flask • PostgreSQL • Tailwind CSS • Git • GitHub
 
 ---
 
