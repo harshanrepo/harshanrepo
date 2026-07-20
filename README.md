@@ -27,7 +27,7 @@ Python • JavaScript • Flask • PostgreSQL • Tailwind CSS • Git • GitH
 
 ### Connect
 
-[Email](mailto:harshanvx@gmail.com) • [LinkedIn](https://www.linkedin.com/in/mrshri-harshan/) • [GitHub](https://github.com/harshanrepo)
+[Email](mailto:harshanvx@gmail.com) • [LinkedIn](https://www.linkedin.com/in/mrshri-harshan/) 
 
 ---
 
