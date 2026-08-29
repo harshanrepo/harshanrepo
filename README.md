@@ -6,9 +6,9 @@ A Computer Science Engineering graduate passionate about Software Engineering. I
 
 ### Projects
 
+- **Argus** — API Uptime Monitor
 - **SpendWise** — Multi-user Expense Tracker
 - **Savora** — Chrome Link Manager Extension
-- **Argus** — API Uptime Monitor
 
 ---
 
