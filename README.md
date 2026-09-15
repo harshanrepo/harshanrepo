@@ -1,12 +1,12 @@
 # Hey there 👋 I'm Harshan
 
-A Computer Science Engineering graduate passionate about Software Engineering. I build web applications using Python, Flask, PostgreSQL, and JavaScript.
+CS grad building web apps with Python, Flask, FastAPI, PostgreSQL & JS. Currently leveling up through hands-on training.
 
 ---
 
 ### Projects
 
-- **resolveDesk** — Help Desk / Ticket Management System (FastAPI, SQLAlchemy, Jinja2)
+- **resolveDesk** — Ticket Management System 
 - **Argus** — API Uptime Monitor
 - **SpendWise** — Multi-user Expense Tracker
 
