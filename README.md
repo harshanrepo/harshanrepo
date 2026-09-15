@@ -6,11 +6,9 @@ A Computer Science Engineering graduate passionate about Software Engineering. I
 
 ### Projects
 
+- **resolveDesk** — Help Desk / Ticket Management System (FastAPI, SQLAlchemy, Jinja2)
 - **Argus** — API Uptime Monitor
 - **SpendWise** — Multi-user Expense Tracker
-- **Savora** — Chrome Link Manager Extension
-- **resolveDesk** — Help Desk / Ticket Management System (FastAPI, SQLAlchemy, Jinja2)
-- **Nilex** — Keyword-based Egyptian Knowledge Search Engine (Flask, PostgreSQL full-text search)
 
 ---
 
