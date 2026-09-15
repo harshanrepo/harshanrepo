@@ -27,9 +27,9 @@ A Computer Science Engineering graduate passionate about Software Engineering. I
 
 ### Connect
 
-| 📧 Email | 💼 LinkedIn | 🌐 Portfolio |
-|:---:|:---:|:---:|
-| [shriharshancse@gmail.com](mailto:shriharshancse@gmail.com) | [mrshri-harshan](https://www.linkedin.com/in/mrshri-harshan/) | [harshan-portfolio.onrender.com](https://harshan-portfolio.onrender.com) 
+<a href="mailto:shriharshancse@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/mrshri-harshan/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+<a href="https://harshan-portfolio.onrender.com"><img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" /></a>
 
 ---
 
