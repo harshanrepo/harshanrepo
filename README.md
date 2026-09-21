@@ -2,6 +2,8 @@
 
 CS grad building web apps with Python, Flask, FastAPI, PostgreSQL & JS. Currently leveling up through hands-on training.
 
+🌐 **Portfolio:** [harshan-portfolio.onrender.com](https://harshan-portfolio.onrender.com)
+
 ---
 
 ### Projects
