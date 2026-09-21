@@ -2,8 +2,6 @@
 
 CS grad building web apps with Python, Flask, FastAPI, PostgreSQL & JS. Currently leveling up through hands-on training.
 
-🌐 **Portfolio:** [harshan-portfolio.onrender.com](https://harshan-portfolio.onrender.com)
-
 ---
 
 ### Projects
@@ -31,7 +29,7 @@ CS grad building web apps with Python, Flask, FastAPI, PostgreSQL & JS. Currentl
 
 <a href="mailto:shriharshancse@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/mrshri-harshan/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://harshan-portfolio.onrender.com"><img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" /></a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://harshan-portfolio.onrender.com)
 
 ---
 
